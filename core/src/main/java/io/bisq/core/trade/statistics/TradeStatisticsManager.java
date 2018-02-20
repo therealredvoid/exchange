@@ -229,6 +229,7 @@ public class TradeStatisticsManager {
         newlyAdded.add("ZEN");
         newlyAdded.add("ELLA");
         newlyAdded.add("XCN");
+        newlyAdded.add("ICH");
         newlyAdded.add("TRC");
         newlyAdded.add("INXT");
         newlyAdded.add("PART");
